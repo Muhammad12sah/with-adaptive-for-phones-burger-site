@@ -773,6 +773,7 @@ margin-top: 8px;
         position: relative;
         background: rgba(249, 249, 249, 1);
         overflow: hidden;
+        will-change: transform;
     
     }
 
