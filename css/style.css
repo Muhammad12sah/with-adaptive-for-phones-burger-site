@@ -772,6 +772,7 @@ margin-top: 8px;
         width: 490px;
         position: relative;
         background: rgba(249, 249, 249, 1);
+        overflow: hidden;
     
     }
 
@@ -781,8 +782,8 @@ margin-top: 8px;
         background: rgba(255, 171, 8, 1);
         border-radius: 50%;
         position: absolute;
-        top: -152px;
-        left: -150px;
+        top: -162px;
+        left: -70px;
         
     }
 
